@@ -3,7 +3,7 @@ MySQL Database and Flask REST API for Game Library Manager
 
 This repo contains the implementation for the database and server for Game Library Manager:
 
-https://github.com/myuimu/Game-Library-Manager/
+https://github.com/Nick-Goodson/Game-Library-Manager/
 
 The instructions in this README are geared towards running the database and server on a single Linux machine.
 
