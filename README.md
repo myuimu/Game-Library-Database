@@ -29,8 +29,3 @@ The instructions in this README are geared towards running the database and serv
 `python3 api.py`
 * To run the deployment server:
 `gunicorn api:app`
-
-#### TODO
-* Switch to token based authentication
-* Allow more ways to sort data
-* Implement a friends list system
